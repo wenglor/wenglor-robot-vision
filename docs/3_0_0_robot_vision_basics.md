@@ -1,6 +1,6 @@
 # 3. Robot Vision Basics
 
-Machine Vision Devices connect to robot controllers through the wenglor robot server. The robot server runs directly on each Machine Vision Device, and its settings can be accessed via the device’s website. For every Processing Instance, you’ll find the robot server available under the “Jobs” tab. For further details, please refer to your Machine Vision Device’s operating instructions.
+Machine Vision Devices connect to robot controllers through the wenglor robot server. The robot server runs directly on each Machine Vision Device, and its settings can be accessed via the device website. For every Processing Instance, you’ll find the robot server available under the “Jobs” tab. For further details, please refer to your Machine Vision Device’s operating instructions.
 
 ## Robot Vision Features
 

@@ -1,7 +1,7 @@
 # 4.1 Basics with Robot Server
 
 The calibration process is different, if the camera is mounted on the robot or not on the robot.
-Buy one of the calibration plates ZVZJ (see [wenglor website](https://www.wenglor.com/en/) -> ZVZJ) or print the PDF on a stiff and flat material (see [wenglor website](https://www.wenglor.com/en/) -> ZVZJ). For best accuracy, use the wenglor calibration plates ZVZJ.
+Buy one of the [calibration plates ZVZJ](https://www.wenglor.com/en/Accessories/Optics-Filters-Deflectors-and-Focusers/Calibration-Plates/c/cxmCID222488) or print the PDF on a stiff and flat material. For best accuracy, use the wenglor [calibration plates ZVZJ](https://www.wenglor.com/en/Accessories/Optics-Filters-Deflectors-and-Focusers/Calibration-Plates/c/cxmCID222488).
 
 > **NOTE**
 >
