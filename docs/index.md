@@ -1,3 +1,3 @@
-# Robot Vision Operating Instructions
+# Robot Vision
 
-This manual demonstrates how a general usage of the the robot vision interace with wenglor vision devices can look like.
+This operating instructions demonstrate how a general usage of the the robot vision interace with wenglor vision devices can look like.

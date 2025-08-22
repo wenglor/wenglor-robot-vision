@@ -1,4 +1,4 @@
-site_name: Robot Vision Operating Instructions
+site_name: Robot Vision
 site_description: General template for a robot vision application using the wenglor robot vision interface.
 site_url: https://wenglor.github.io/wenglor-robot-vision/
 repo_url: https://github.com/wenglor/wenglor-robot-vision
