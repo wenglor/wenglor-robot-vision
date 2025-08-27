@@ -15,7 +15,7 @@ Machine Vision Devices connect to robot controllers through the wenglor robot se
 
 ## Robot Installation Guidelines
 
-- Mount the camera on the robot or not on the robot. <br>For general mounting products check either the the [Mouting Technology](https://www.wenglor.com/en/Accessories/Mounting-Technology/c/cxmCID220454?q=%3Arelevance#product-list-page-container-id) or the product page from the [Machine Vision section](https://www.wenglor.com/en/Machine-Vision/s/Machine+Vision). Flange mounting options are currently only available for flanges according to ISO 9409-1.
+- Mount the camera on the robot ([ZVZC001](https://www.wenglor.com/product/ZVZC001)) or not on the robot. For details about mounting options, check the product detail page of the Machine Vision Devices ([B60](https://www.wenglor.com/en/Machine-Vision/Smart-Cameras-and-Vision-Sensors/Smart-Camera-B60/c/cxmCID221375) and [Machine Vision Cameras](https://www.wenglor.com/en/Machine-Vision/Machine-Vision-Cameras/c/cxmCID221382)).
 - Make sure to use robot-compatible cables. For details, check the product detail page of the Machine Vision Device.
 - For safe cable management, use the joint limits in the safety settings of the robot.
 - Set the payload on the robot (if necessary).
